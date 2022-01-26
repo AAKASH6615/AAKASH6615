@@ -2,7 +2,7 @@
 - 👀 I’m interested in .NET development
 - 🌱 I’m currently learning .NET developemnt with Angular
 - 💞️ I’m looking to collaborate on any sort of .NET development related projects 
-- 📫 How to reach me - Please reachout to me through Linkendin: https://www.linkedin.com/in/aakash-upadhyay-06681bb2/
+- 📫 How to reach me - Please reachout to me directly through Linkendin: https://www.linkedin.com/in/aakash-upadhyay-06681bb2/
 
 <!---
 AAKASH6615/AAKASH6615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
